@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <!-- Stylesheets
+    ============================================= -->
+	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <link rel="stylesheet" href="../css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="../css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="../css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="../css/colors.css" type="text/css" />
+    <link rel="stylesheet" href="../css/responsive.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!--[if lt IE 9]>
+    	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+    <!-- External JavaScripts
+    ============================================= -->
+    <script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/plugins.js"></script>
+
+    <!-- Document Title
+    ============================================= -->
+    <title>Haven | The Home Management Platform</title>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55911335-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body class="stretched">
+
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">
+
+        <!-- Header
+        ============================================= -->
+        <header id="header" class="full-header static-sticky">
+
+            <div id="header-wrap">
+
+                <div class="container clearfix">
+
+                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+                    <!-- Logo
+                    ============================================= -->
+                    <div id="logo">
+                        <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Haven Logo"></a>
+                        <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Haven Logo"></a>
+                    </div><!-- #logo end -->
+
+                    <!-- Primary Navigation
+                    ============================================= -->
+                    <nav id="primary-menu" class="style-3">
+
+                        <ul>
+                            <li><a href="index.html"><div>Home</div></a>
+                            </li>
+                            <li class="mega-menu current"><a href="#"><div>Book a Pro</div></a>
+                                <div class="mega-menu-content style-2 col-5 clearfix">
+                                    <ul>
+                                        <li class="mega-menu-title"><a href="#"><div>Grids</div></a>
+                                            <ul>
+                                                <li><a href="portfolio-1.html"><div>1 Column</div></a></li>
+                                                <li><a href="portfolio-2.html"><div>2 Columns</div></a></li>
+                                                <li><a href="portfolio-3.html"><div>3 Columns</div></a></li>
+                                                <li><a href="portfolio.html"><div>4 Columns</div></a></li>
+                                                <li><a href="portfolio-5.html"><div>5 Columns</div></a></li>
+                                                <li><a href="portfolio-6.html"><div>6 Columns</div></a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li class="mega-menu-title"><a href="#"><div>Masonry</div></a>
+                                            <ul>
+                                                <li><a href="portfolio-mixed-masonry.html"><div>Mixed Columns</div></a></li>
+                                                <li><a href="portfolio-2-masonry.html"><div>2 Columns</div></a></li>
+                                                <li><a href="portfolio-3-masonry.html"><div>3 Columns</div></a></li>
+                                                <li><a href="portfolio-masonry.html"><div>4 Columns</div></a></li>
+                                                <li><a href="portfolio-5-masonry.html"><div>5 Columns</div></a></li>
+                                                <li><a href="portfolio-6-masonry.html"><div>6 Columns</div></a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li class="mega-menu-title"><a href="#"><div>Loading Styles</div></a>
+                                            <ul>
+                                                <li><a href="portfolio.html"><div>jQuery Filter</div></a></li>
+                                                <li><a href="portfolio-pagination.html"><div>Pagination</div></a></li>
+                                                <li><a href="portfolio-jpagination.html"><div>jQuery Pagination</div></a></li>
+                                                <li><a href="portfolio-infinity-scroll.html"><div>Infinity Scroll</div></a></li>
+                                                <li><a href="portfolio-ajax.html"><div>AJAX In Page</div></a></li>
+                                                <li><a href="portfolio-ajax-in-modal.html"><div>AJAX In Modal</div></a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li class="mega-menu-title"><a href="#"><div>Single Project</div></a>
+                                            <ul>
+                                                <li><a href="portfolio-single-extended.html"><div>Extended Item</div></a></li>
+                                                <li><a href="portfolio-single-fullwidth.html"><div>Parallax Image</div></a></li>
+                                                <li><a href="portfolio-single-gallery-full.html"><div>Slider Gallery</div></a></li>
+                                                <li><a href="portfolio-single-video-fullwidth-left-sidebar.html"><div>HTML5 Video</div></a></li>
+                                                <li><a href="portfolio-single-thumbs-right-sidebar.html"><div>Masonry Thumbs</div></a></li>
+                                                <li><a href="portfolio-single-video-both-sidebar.html"><div>Embed Video</div></a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li class="mega-menu-title"><a href="#"><div>Layouts</div></a>
+                                            <ul>
+                                                <li><a href="portfolio-nomargin.html"><div>Default</div></a></li>
+                                                <li><a href="portfolio-1-alt-right-sidebar.html"><div>Right Sidebar</div></a></li>
+                                                <li><a href="portfolio-3-left-sidebar.html"><div>Left Sidebar</div></a></li>
+                                                <li><a href="portfolio-2-both-sidebar.html"><div>Both Sidebar</div></a></li>
+                                                <li><a href="portfolio-fullwidth-notitle.html"><div>100% Width</div></a></li>
+                                                <li><a href="portfolio-parallax.html"><div>Parallax</div></a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            </li>
+                            <li><a href="#"><div>Tools</div></a>
+                                <ul>
+                                    <li><a href="#"><div><i class="icon-calendar3"></i>Bookings</div></a>
+                                    </li>
+                                    <li><a href="#"><div><i class="icon-user3"></i>Account</div></a>
+                                    </li>
+                                    <li><a href="#"><div><i class="icon-truck"></i>Preferred Providers</div></a>
+                                    </li>
+                                    <li><a href="side-panel.html"><div><i class="icon-gift"></i>Gifts</div></a></li>
+                                    <li><a href="http://app.joinhaven.com/logout"><div><i class="icon-remove-sign"></i>Sign Out</div></a></li>
+                                </ul>
+                         	</li>
+                         	<li><a href="#"><div>Home Manager</div></a>
+                         	</li>
+                            <li><a href="#"><div>My Profile</div></a>
+                                <ul>
+                                    <li><a href="#"><div><i class="icon-calendar3"></i>Bookings</div></a>
+                                    </li>
+                                    <li><a href="#"><div><i class="icon-user3"></i>Account</div></a>
+                                    </li>
+                                    <li><a href="#"><div><i class="icon-truck"></i>Preferred Providers</div></a>
+                                    </li>
+                                    <li><a href="side-panel.html"><div><i class="icon-gift"></i>Gifts</div></a></li>
+                                    <li><a href="http://app.joinhaven.com/logout"><div><i class="icon-remove-sign"></i>Sign Out</div></a></li>
+                                </ul>
+                            </li>
+                            <li><a href="shop.html"><div>Free Services</div></a>
+                            </li>
+                        </ul>
+                    </nav><!-- #primary-menu end -->
+
+                </div>
+
+            </div>
+
+        </header><!-- #header end -->
+
+
+        <!-- Page Title
+        ============================================= -->
+
+
+        <section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/parallax/book-a-pro.jpg'); padding: 75px 0;" data-stellar-background-ratio="0.3">
+
+            <div class="container clearfix">
+                <h1>Book a Pro</h1>
+                <span>Trending Services Picked for You</span>
+                <ol class="breadcrumb">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#">Book a Pro</a></li>
+                </ol>
+            </div>
+
+        </section>
+
+        <!-- Page Title End -->
+
+        <!-- Content
+        ============================================= -->
+        
+        <section id="content">
+
+            <div class="content-wrap">
+
+                <div class="container clearfix">
+
+                    <!-- Post Content
+                    ============================================= -->
+                    <div class="postcontent nobottommargin">
+
+                        <!-- Shop
+                        ============================================= -->
+                        <div id="shop" class="product-3 clearfix">
+
+                            <div class="product clearfix">
+                                <div class="product-image">
+                                    <a href="#"><img src="images/book/landscaping/mulch-1.jpg" alt="Mulch"></a>
+                                    <div class="sale-flash">Spring is Here!</div>
+                                    <div class="product-overlay">
+                                        <a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Book a Pro</span></a>
+                                        <a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
+                                    </div>
+                                </div>
+                                <div class="product-desc center">
+                                    <div class="product-title"><h3><a href="#">Mulch</a></h3></div>
+                                    <div class="product-price">from $133 delivered</div>
+                                </div>
+                            </div>
+
+                            <div class="product clearfix">
+                                <div class="product-image">
+                                    <a href="#"><img src="images/book/landscaping/lawn-mowing-1.jpg" alt="Mulch"></a>
+                                    <div class="product-overlay">
+                                        <a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Book a Pro</span></a>
+                                        <a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
+                                    </div>
+                                </div>
+                                <div class="product-desc center">
+                                    <div class="product-title"><h3><a href="#">Lawn Mowing</a></h3></div>
+                                    <div class="product-price">from $38/week</div>
+                                </div>
+                            </div>
+
+                            <div class="product clearfix">
+                                <div class="product-image">
+                                    <a href="#"><img src="images/book/landscaping/mulch-1.jpg" alt="Mulch"></a>
+                                    <div class="product-overlay">
+                                        <a href="#" class="add-to-cart"><i class="icon-shopping-cart"></i><span> Book a Pro</span></a>
+                                        <a href="include/ajax/shop-item.html" class="item-quick-view" data-lightbox="ajax"><i class="icon-zoom-in2"></i><span> Quick View</span></a>
+                                    </div>
+                                </div>
+                                <div class="product-desc center">
+                                    <div class="product-title"><h3><a href="#">Home Cleaning</a></h3></div>
+                                    <div class="product-price">from $100</div>
+                                </div>
+                            </div>
+
+                        </div><!-- #shop end -->
+
+                    </div><!-- .postcontent end -->
+
+                    <!-- Sidebar
+                    ============================================= -->
+                    <div class="sidebar nobottommargin col_last">
+                        <div class="sidebar-widgets-wrap">
+
+                            <div class="widget widget_links clearfix">
+
+                                <h4>Home Service Categories</h4>
+                                <ul>
+                                    <li><a href="#"><strong>Picked For You</strong></a></li>
+                                    <li><a href="#">Handyman</a></li>
+                                    <li><a href="#">Cleaning</a></li>
+                                    <li><a href="#">Plumbing</a></li>
+                                    <li><a href="#">Painting</a></li>
+                                    <li><a href="#">Landscaping</a></li>
+                                    <li><a href="#">Electrical</a></li>
+                                    <li><a href="#">HVAC</a></li>
+                                    <li><a href="#">Miscellaneous</a></li>
+                                </ul>
+
+                            </div>
+
+                            <!-- COMMENT OUT POPULAR ITEMS 
+
+                            <div class="widget clearfix">
+
+                                <h4>Popular Items</h4>
+                                <div id="Popular-item">
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            <a href="#"><img src="images/shop/small/8.jpg" alt="Image"></a>
+                                        </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="#">Pink Printed Dress</a></h4>
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$21</li>
+                                                <li><i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            <a href="#"><img src="images/shop/small/5.jpg" alt="Image"></a>
+                                        </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="#">Blue Round-Neck Tshirt</a></h4>
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$19.99</li>
+                                                <li><i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-empty"></i> <i class="icon-star-empty"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            <a href="#"><img src="images/shop/small/12.jpg" alt="Image"></a>
+                                        </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="#">Men Aviator Sunglasses</a></h4>
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$14.99</li>
+                                                <li><i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i> <i class="icon-star-empty"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div> -->
+
+                        </div>
+                    </div><!-- .sidebar end -->
+
+                </div>
+
+            </div>
+
+        </section><!-- #content end -->
+
+        <!-- Footer
+        ============================================= -->
+        <footer id="footer" class="dark">
+
+            <div class="container clearfix">
+
+                <div class="col_half topmargin">
+                            <img src="../assets/images/haven-white-horizontal.png" alt="Haven Logo">
+                </div>
+                
+                <div class="col_one_fourth topmargin">
+                            Haven <br>
+                            7 Launch Way, Suite 610 <br>
+                            Fishers, Indiana 46038<br>
+                            Email: info@joinhaven.com<br>
+                            Phone: (317) 863-9997<br>
+                            Text: (317) 210-8745<br>
+                            <p>
+                            <h4>Follow Us</h4>
+                            <a href="http://www.facebook.com/JoinHaven" class="social-icon si-colored si-facebook" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank">
+                                <i class="icon-facebook"></i>
+                                <i class="icon-facebook"></i>
+                            </a>
+                            <a href="http://www.twitter.com/JoinHaven" class="social-icon si-colored si-twitter" data-toggle="tooltip" data-placement="top" title="Twitter" target="_blank">
+                                <i class="icon-twitter"></i>
+                                <i class="icon-twitter"></i>
+                            </a>
+                            </p>
+
+                </div>
+
+                <div class="col_one_fourth col_last topmargin">
+                        <a href="/about/privacy-policy.html" style="color: white;">Privacy Policy</a><br>
+                        <a href="/about/homeowner-terms-of-service.html" style="color: white;">Homeowner Terms</a><br>
+                        <a href="/blog/blog.html" style="color: white;">Blog</a><br>
+                        <a href="/about/guarantee-terms.html" style="color: white;">Haven Guarantee Terms</a><br>
+                </div>
+
+            </div>
+
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+
+                    <div class="col_half">
+                        Copyrights &copy; 2015 All Rights Reserved by PorchLight Group, Inc.<br>
+                        
+                    </div>
+
+                </div>
+
+            </div><!-- #copyrights end -->
+
+        </footer><!-- #footer end -->
+
+    </div><!-- #wrapper end -->
+
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- Footer Scripts
+    ============================================= -->
+    <script type="text/javascript" src="js/functions.js"></script>
+
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '616531835147476']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=616531835147476&amp;ev=PixelInitialized" /></noscript>
+
+<script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/547484aabefbceb8aa000108.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+
+</body>
+</html>
